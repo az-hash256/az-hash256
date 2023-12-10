@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az-hash256)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az-hash256&layout=pie&show_icons=true&theme=neon)](https://github.com/az-hash256/readmestats)
